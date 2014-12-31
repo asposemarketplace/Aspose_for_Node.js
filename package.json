@@ -1,6 +1,6 @@
 {
   "name": "asposecloud",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "Aspose Cloud SDK for NodeJS",
   "main": "lib/aspose-cloud.js",
   "scripts": {
@@ -19,7 +19,8 @@
     "Worksheet",
     "Slides",
     "Emails",
-    "Tasks"
+    "Tasks",
+    "Imaging"
   ],
   "author": "Assad Mahmood Qazi <assadvirgo@gmail.com>",
   "license": "MIT",
