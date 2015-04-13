@@ -1,3 +1,4 @@
+[![npm version](https://badge.fury.io/js/asposecloud.svg)](http://badge.fury.io/js/asposecloud)
 Aspose Cloud SDK for Node.JS
 ==================
 
