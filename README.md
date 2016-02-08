@@ -1,3 +1,17 @@
+## IMPORTANT NOTICE
+This SDK is no longer updated because we have created a newer and much improved version of this SDK available at following product wise repositories
+* [Aspose.Storage Cloud SDK for Node.js](https://goo.gl/3TR2L7)
+* [Aspose.Words Cloud SDK for Node.js](https://goo.gl/RU7ETJ)
+* [Aspose.Cells Cloud SDK for Node.js](https://goo.gl/s8zQgd)
+* [Aspose.Slides Cloud SDK for Node.js](https://goo.gl/byLgI2)
+* [Aspose.Pdf Cloud SDK for Node.js](https://goo.gl/8lNn1S)
+* [Aspose.BarCode Cloud SDK for Node.js](https://goo.gl/1KFUCA)
+* [Aspose.Email Cloud SDK for Node.js](https://goo.gl/azAxVg)
+
+You are kindly requested to try our new SDKs and then plan to migrate. We will be more than happy to help and assist you if you face any issues during or after migration. We will however continue to provide support to our existing customers for some time.
+
+---
+
 [![npm version](https://badge.fury.io/js/asposecloud.svg)](http://badge.fury.io/js/asposecloud)
 Aspose Cloud SDK for Node.JS
 ==================
